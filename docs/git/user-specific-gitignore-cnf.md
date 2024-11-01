@@ -1,5 +1,4 @@
 ---
-description: 不要轻易往开源项目提交更新.gitignore
 title: Git：添加用户范围的gitignore文件
 readingTime: false
 tag:
